@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I am Alberto 👋
+```
+const Oversv = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Styled-Components, Sass]
+}
+```
 
 <!--
 **Oversv/Oversv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
