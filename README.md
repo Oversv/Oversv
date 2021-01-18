@@ -6,7 +6,9 @@ const Oversv = {
   tools: [React, Styled-Components, Sass]
 }
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oversv&layout=compact)](https://github.com/oversv/github-readme-stats)
 
+![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=oversv&show_icons=true)
 <!--
 **Oversv/Oversv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
